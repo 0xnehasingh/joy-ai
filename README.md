@@ -1,2 +1,2 @@
-# joy-ai-dashboard
+# Joy-ai-dashboard
  
